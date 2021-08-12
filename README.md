@@ -1,5 +1,5 @@
-<center>
-### Aplicação desenvolvida na missão ReactJS no NLW #06 by Rocketseat 
+
+## Aplicação desenvolvida na missão ReactJS no NLW #06 by Rocketseat 
 
 
 [![Logo](https://github.com/rocketseat-education/nlw-06-reactjs/raw/master/.github/logo.svg "Logo")](http://https://tcc-fatec-297917.web.app/ "Logo")
