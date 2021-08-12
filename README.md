@@ -1,8 +1,10 @@
 
 ## Aplicação desenvolvida na missão ReactJS no NLW #06 by Rocketseat 
 
+<br>
 
 [![Logo](https://github.com/rocketseat-education/nlw-06-reactjs/raw/master/.github/logo.svg "Logo")](http://https://tcc-fatec-297917.web.app/ "Logo")
+
 
 #####  Esse projeto foi desenvolvido com as seguintes tecnologias:
 
