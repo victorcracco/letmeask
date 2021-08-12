@@ -31,5 +31,5 @@ $ yarn start
 <img src="https://s6.gifyu.com/images/admina96948690c118f0c.gif" alt="admin" border="0">
 
 # [Aplicação online][Aplicação]
-[Aplicação]: http://https://tcc-fatec-297917.web.app/
+[Aplicação]: https://tcc-fatec-297917.web.app/
 
